@@ -1,0 +1,59 @@
+[18-Feb-2025 00:41:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/login.php(3): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/index.php(4): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/login.php(3): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:41:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'username'@'localhost' (using password: YES) in /home/m1ksu4ul1l1m/public_html/clients/config.php:2
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/config.php(2): PDO->__construct()
+#1 /home/m1ksu4ul1l1m/public_html/clients/login.php(3): include('/home/m1ksu4ul1...')
+#2 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/config.php on line 2
+[18-Feb-2025 00:46:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'm1ksu4ul1l1m_webxs.clients' doesn't exist in /home/m1ksu4ul1l1m/public_html/clients/login.php:16
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/clients/login.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/clients/login.php on line 16

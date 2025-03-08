@@ -1,0 +1,1084 @@
+[02-Feb-2025 17:03:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Feb-2025 17:03:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Feb-2025 17:03:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Feb-2025 17:03:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Feb-2025 17:04:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Feb-2025 17:04:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Feb-2025 04:54:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Feb-2025 04:54:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[04-Feb-2025 04:56:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[04-Feb-2025 04:56:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[05-Feb-2025 04:48:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[05-Feb-2025 04:48:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[06-Feb-2025 04:42:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[06-Feb-2025 04:42:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[07-Feb-2025 05:13:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[07-Feb-2025 05:13:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Feb-2025 04:51:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Feb-2025 04:51:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Feb-2025 08:20:28 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[09-Feb-2025 08:20:28 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:28 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:35 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[09-Feb-2025 08:20:35 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:35 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:35 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[09-Feb-2025 08:20:35 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:35 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:35 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[09-Feb-2025 08:20:35 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:35 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:42 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[09-Feb-2025 08:20:42 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:46 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[09-Feb-2025 08:20:46 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:46 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:46 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[09-Feb-2025 08:20:46 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:46 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[09-Feb-2025 08:20:46 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[09-Feb-2025 08:20:46 UTC] PHP Stack trace:
+[09-Feb-2025 08:20:46 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[10-Feb-2025 04:57:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[10-Feb-2025 04:57:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[11-Feb-2025 05:01:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[11-Feb-2025 05:01:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[11-Feb-2025 05:10:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[11-Feb-2025 05:10:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[12-Feb-2025 11:45:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[12-Feb-2025 11:45:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[12-Feb-2025 23:46:24 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[12-Feb-2025 23:46:24 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:24 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:28 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[12-Feb-2025 23:46:28 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:28 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:28 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[12-Feb-2025 23:46:28 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:28 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:28 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[12-Feb-2025 23:46:28 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:28 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:34 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[12-Feb-2025 23:46:34 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:34 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:41 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[12-Feb-2025 23:46:41 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:41 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:41 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[12-Feb-2025 23:46:41 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:41 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[12-Feb-2025 23:46:41 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[12-Feb-2025 23:46:41 UTC] PHP Stack trace:
+[12-Feb-2025 23:46:41 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[13-Feb-2025 04:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Feb-2025 04:52:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Feb-2025 16:55:38 UTC] PHP Warning:  Undefined array key "cf-turnstile-response" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 7
+[13-Feb-2025 16:55:38 UTC] PHP Stack trace:
+[13-Feb-2025 16:55:38 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[13-Feb-2025 17:05:54 UTC] PHP Warning:  Undefined array key "cf-turnstile-response" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 7
+[13-Feb-2025 17:05:54 UTC] PHP Stack trace:
+[13-Feb-2025 17:05:54 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[14-Feb-2025 05:00:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[14-Feb-2025 05:00:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[15-Feb-2025 04:42:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[15-Feb-2025 04:42:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[16-Feb-2025 04:41:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[16-Feb-2025 04:41:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:12:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:12:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:12:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:12:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:13:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 00:13:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 05:03:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 05:03:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 10
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 20
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 26
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 27
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 49
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 50
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:28:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 55
+[17-Feb-2025 20:28:51 UTC] PHP Stack trace:
+[17-Feb-2025 20:28:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 19
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 25
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 26
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 80
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 81
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 86
+[17-Feb-2025 20:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 20:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 55
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 164
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 165
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 170
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 172
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 172
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 183
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 184
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:31:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 190
+[17-Feb-2025 20:31:53 UTC] PHP Stack trace:
+[17-Feb-2025 20:31:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'whmcs10tetete@letsencode.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/order.php:19
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/order.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/order.php on line 19
+[17-Feb-2025 20:32:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'whmcs10tetete@letsencode.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/order.php:19
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/order.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/order.php on line 19
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 55
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 164
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 165
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 170
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 172
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 172
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 183
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 184
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:32:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 190
+[17-Feb-2025 20:32:55 UTC] PHP Stack trace:
+[17-Feb-2025 20:32:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 55
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 172
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 173
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 178
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 180
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 180
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 191
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 192
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:35:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 198
+[17-Feb-2025 20:35:04 UTC] PHP Stack trace:
+[17-Feb-2025 20:35:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Undefined array key "package" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Undefined array key "" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 55
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 173
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 174
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 179
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 181
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 181
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 192
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 193
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:37:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/invoice.php on line 199
+[17-Feb-2025 20:37:07 UTC] PHP Stack trace:
+[17-Feb-2025 20:37:07 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:43:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 41
+[17-Feb-2025 20:43:23 UTC] PHP Stack trace:
+[17-Feb-2025 20:43:23 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  Undefined array key "customer_name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 12
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  Undefined array key "customer_email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 13
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  Undefined array key "customer_phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 14
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  Undefined array key "customer_address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 15
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 138
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:44 UTC] PHP Warning:  Undefined variable $customer_whatsapp in /home/m1ksu4ul1l1m/public_html/invoice.php on line 159
+[17-Feb-2025 20:46:44 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  Undefined array key "customer_name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 12
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  Undefined array key "customer_email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 13
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  Undefined array key "customer_phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 14
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  Undefined array key "customer_address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 15
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/m1ksu4ul1l1m/public_html/invoice.php on line 138
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:46:58 UTC] PHP Warning:  Undefined variable $customer_whatsapp in /home/m1ksu4ul1l1m/public_html/invoice.php on line 159
+[17-Feb-2025 20:46:58 UTC] PHP Stack trace:
+[17-Feb-2025 20:46:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 9
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 10
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 11
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Undefined variable $domain in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 46
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 20:59:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 57
+[17-Feb-2025 20:59:42 UTC] PHP Stack trace:
+[17-Feb-2025 20:59:42 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:08:36 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 6
+[17-Feb-2025 21:08:36 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:36 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/m1ksu4ul1l1m/public_html/order.php on line 14
+[17-Feb-2025 21:08:36 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:36 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:36 UTC] PHP   2. session_start() /home/m1ksu4ul1l1m/public_html/order.php:14
+[17-Feb-2025 21:08:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 22
+[17-Feb-2025 21:08:36 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:36 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:36 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:22
+[17-Feb-2025 21:08:57 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 6
+[17-Feb-2025 21:08:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/m1ksu4ul1l1m/public_html/order.php on line 14
+[17-Feb-2025 21:08:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:57 UTC] PHP   2. session_start() /home/m1ksu4ul1l1m/public_html/order.php:14
+[17-Feb-2025 21:08:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 22
+[17-Feb-2025 21:08:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:08:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:08:57 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:22
+[17-Feb-2025 21:09:03 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 6
+[17-Feb-2025 21:09:03 UTC] PHP Stack trace:
+[17-Feb-2025 21:09:03 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:09:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/m1ksu4ul1l1m/public_html/order.php on line 14
+[17-Feb-2025 21:09:03 UTC] PHP Stack trace:
+[17-Feb-2025 21:09:03 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:09:03 UTC] PHP   2. session_start() /home/m1ksu4ul1l1m/public_html/order.php:14
+[17-Feb-2025 21:09:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 22
+[17-Feb-2025 21:09:03 UTC] PHP Stack trace:
+[17-Feb-2025 21:09:03 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:09:03 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:22
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  include(): Failed opening 'file_with_errors.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 9
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/m1ksu4ul1l1m/public_html/order.php on line 17
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP   2. session_start() /home/m1ksu4ul1l1m/public_html/order.php:17
+[17-Feb-2025 21:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 25
+[17-Feb-2025 21:10:15 UTC] PHP Stack trace:
+[17-Feb-2025 21:10:15 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:10:15 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:25
+[17-Feb-2025 21:11:14 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:11:14 UTC] PHP Stack trace:
+[17-Feb-2025 21:11:14 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:11:14 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:11:14 UTC] PHP Stack trace:
+[17-Feb-2025 21:11:14 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:11:14 UTC] PHP Warning:  include(): Failed opening 'file_with_errors.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:11:14 UTC] PHP Stack trace:
+[17-Feb-2025 21:11:14 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:11:14 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 9
+[17-Feb-2025 21:11:14 UTC] PHP Stack trace:
+[17-Feb-2025 21:11:14 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:11:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/order.php on line 68
+[17-Feb-2025 21:11:14 UTC] PHP Stack trace:
+[17-Feb-2025 21:11:14 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:29:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 24
+[17-Feb-2025 21:29:29 UTC] PHP Stack trace:
+[17-Feb-2025 21:29:29 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:29:29 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:24
+[17-Feb-2025 21:29:49 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 7
+[17-Feb-2025 21:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 21:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:29:49 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 7
+[17-Feb-2025 21:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 21:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:29:49 UTC] PHP Warning:  include(): Failed opening 'file_with_errors.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/order.php on line 7
+[17-Feb-2025 21:29:49 UTC] PHP Stack trace:
+[17-Feb-2025 21:29:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:31:10 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:31:10 UTC] PHP Stack trace:
+[17-Feb-2025 21:31:10 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:31:10 UTC] PHP Warning:  include(file_with_errors.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:31:10 UTC] PHP Stack trace:
+[17-Feb-2025 21:31:10 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:31:10 UTC] PHP Warning:  include(): Failed opening 'file_with_errors.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/order.php on line 4
+[17-Feb-2025 21:31:10 UTC] PHP Stack trace:
+[17-Feb-2025 21:31:10 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:31:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 28
+[17-Feb-2025 21:31:34 UTC] PHP Stack trace:
+[17-Feb-2025 21:31:34 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 21:31:34 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:28
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 43
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 51
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 52
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:33:30 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 21:33:30 UTC] PHP Stack trace:
+[17-Feb-2025 21:33:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:36:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:36:38 UTC] PHP Stack trace:
+[17-Feb-2025 21:36:38 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:36:38 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:39:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:39:11 UTC] PHP Stack trace:
+[17-Feb-2025 21:39:11 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:39:11 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:40:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:40:02 UTC] PHP Stack trace:
+[17-Feb-2025 21:40:02 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:40:02 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:42:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:42:24 UTC] PHP Stack trace:
+[17-Feb-2025 21:42:24 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:42:24 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:44:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:44:58 UTC] PHP Stack trace:
+[17-Feb-2025 21:44:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:44:58 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:48:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:48:53 UTC] PHP Stack trace:
+[17-Feb-2025 21:48:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:48:53 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:52:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:52:01 UTC] PHP Stack trace:
+[17-Feb-2025 21:52:01 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:52:01 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:52:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:52:34 UTC] PHP Stack trace:
+[17-Feb-2025 21:52:34 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:52:34 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:53:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:53:43 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:43 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:53:43 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 43
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 51
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 52
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:53:51 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 21:53:51 UTC] PHP Stack trace:
+[17-Feb-2025 21:53:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:55:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:55:22 UTC] PHP Stack trace:
+[17-Feb-2025 21:55:22 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:55:22 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:55:36 UTC] PHP Stack trace:
+[17-Feb-2025 21:55:36 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:55:36 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:56:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:56:09 UTC] PHP Stack trace:
+[17-Feb-2025 21:56:09 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:56:09 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:56:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:56:49 UTC] PHP Stack trace:
+[17-Feb-2025 21:56:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:56:49 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:59:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 21:59:10 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:10 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 21:59:10 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 43
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 51
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 52
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:47 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 21:59:47 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 43
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 51
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 52
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 21:59:57 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 21:59:57 UTC] PHP Stack trace:
+[17-Feb-2025 21:59:57 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 22:00:06 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 22:00:06 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 8
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "domain" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 43
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 51
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 52
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "phone" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 53
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:00:12 UTC] PHP Warning:  Undefined array key "address" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 54
+[17-Feb-2025 22:00:12 UTC] PHP Stack trace:
+[17-Feb-2025 22:00:12 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:07:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 32
+[17-Feb-2025 22:07:30 UTC] PHP Stack trace:
+[17-Feb-2025 22:07:30 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 22:07:30 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:32
+[17-Feb-2025 22:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 32
+[17-Feb-2025 22:09:59 UTC] PHP Stack trace:
+[17-Feb-2025 22:09:59 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[17-Feb-2025 22:09:59 UTC] PHP   2. header($header = 'Location: invoice.php') /home/m1ksu4ul1l1m/public_html/order.php:32
+[17-Feb-2025 22:11:47 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 22:11:47 UTC] PHP Stack trace:
+[17-Feb-2025 22:11:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:11:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 44
+[17-Feb-2025 22:11:47 UTC] PHP Stack trace:
+[17-Feb-2025 22:11:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:11:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 45
+[17-Feb-2025 22:11:47 UTC] PHP Stack trace:
+[17-Feb-2025 22:11:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:11:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 47
+[17-Feb-2025 22:11:47 UTC] PHP Stack trace:
+[17-Feb-2025 22:11:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:11:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 48
+[17-Feb-2025 22:11:47 UTC] PHP Stack trace:
+[17-Feb-2025 22:11:47 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:16:55 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/invoice.php on line 7
+[17-Feb-2025 22:16:55 UTC] PHP Stack trace:
+[17-Feb-2025 22:16:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 133
+[17-Feb-2025 22:16:55 UTC] PHP Stack trace:
+[17-Feb-2025 22:16:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 134
+[17-Feb-2025 22:16:55 UTC] PHP Stack trace:
+[17-Feb-2025 22:16:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 138
+[17-Feb-2025 22:16:55 UTC] PHP Stack trace:
+[17-Feb-2025 22:16:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/m1ksu4ul1l1m/public_html/invoice.php on line 139
+[17-Feb-2025 22:16:55 UTC] PHP Stack trace:
+[17-Feb-2025 22:16:55 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[17-Feb-2025 22:23:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 22:23:38 UTC] PHP Stack trace:
+[17-Feb-2025 22:23:38 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 22:23:38 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 22:28:49 UTC] PHP Warning:  require_once(tcpdf.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/download_invoice.php on line 30
+[17-Feb-2025 22:28:49 UTC] PHP Stack trace:
+[17-Feb-2025 22:28:49 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/download_invoice.php:0
+[17-Feb-2025 22:28:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/download_invoice.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/download_invoice.php on line 30
+[17-Feb-2025 22:28:54 UTC] PHP Warning:  require_once(tcpdf.php): Failed to open stream: No such file or directory in /home/m1ksu4ul1l1m/public_html/download_invoice.php on line 30
+[17-Feb-2025 22:28:54 UTC] PHP Stack trace:
+[17-Feb-2025 22:28:54 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/download_invoice.php:0
+[17-Feb-2025 22:28:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/m1ksu4ul1l1m/public_html/download_invoice.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/download_invoice.php on line 30
+[17-Feb-2025 23:06:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 23:06:02 UTC] PHP Stack trace:
+[17-Feb-2025 23:06:02 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 23:06:02 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 23:20:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 23:20:51 UTC] PHP Stack trace:
+[17-Feb-2025 23:20:51 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 23:20:51 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 23:21:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 23:21:00 UTC] PHP Stack trace:
+[17-Feb-2025 23:21:00 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 23:21:00 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[17-Feb-2025 23:56:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[17-Feb-2025 23:56:48 UTC] PHP Stack trace:
+[17-Feb-2025 23:56:48 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[17-Feb-2025 23:56:48 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[18-Feb-2025 00:03:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[18-Feb-2025 00:03:44 UTC] PHP Stack trace:
+[18-Feb-2025 00:03:44 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[18-Feb-2025 00:03:44 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[18-Feb-2025 00:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[18-Feb-2025 00:03:46 UTC] PHP Stack trace:
+[18-Feb-2025 00:03:46 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[18-Feb-2025 00:03:46 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[18-Feb-2025 00:08:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`m1ksu4ul1l1m_webxs`.`orders`, CONSTRAINT `orders_ibfk_1` FOREIGN KEY (`customer_id`) REFERENCES `customers` (`id`) ON DELETE CASCADE) in /home/m1ksu4ul1l1m/public_html/order.php:76
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/order.php(76): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/order.php on line 76
+[18-Feb-2025 00:10:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'hostinglagbemarketingteam@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/order.php:66
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/order.php(66): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/order.php on line 66
+[18-Feb-2025 00:17:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'kh.maksudusssdsdl.alam.cse@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:72
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(72): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 72
+[18-Feb-2025 00:17:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant " 1" in /home/m1ksu4ul1l1m/public_html/invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 3
+[18-Feb-2025 00:17:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant " 1" in /home/m1ksu4ul1l1m/public_html/invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 3
+[18-Feb-2025 00:18:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'kh.maksudusssdsdl.alam.cse@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:74
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(74): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 74
+[18-Feb-2025 00:18:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'kh.maksudusssdsdl.aladdm.cse@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:74
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(74): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 74
+[18-Feb-2025 00:19:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'hostinglagbefffgfgfgmarketingteam@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:74
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(74): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 74
+[18-Feb-2025 00:22:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 11
+[18-Feb-2025 00:22:48 UTC] PHP Stack trace:
+[18-Feb-2025 00:22:48 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[18-Feb-2025 00:22:48 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:11
+[18-Feb-2025 00:23:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'alam@dontsp.am' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:74
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(74): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 74
+[18-Feb-2025 00:25:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/invoice.php on line 101
+[18-Feb-2025 00:25:00 UTC] PHP Stack trace:
+[18-Feb-2025 00:25:00 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[18-Feb-2025 00:25:00 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/invoice.php:101
+[18-Feb-2025 00:27:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 101
+[18-Feb-2025 00:27:03 UTC] PHP Stack trace:
+[18-Feb-2025 00:27:03 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[18-Feb-2025 00:27:03 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/order.php:101
+[18-Feb-2025 00:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 101
+[18-Feb-2025 00:27:05 UTC] PHP Stack trace:
+[18-Feb-2025 00:27:05 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[18-Feb-2025 00:27:05 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/order.php:101
+[18-Feb-2025 00:27:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/order.php on line 101
+[18-Feb-2025 00:27:09 UTC] PHP Stack trace:
+[18-Feb-2025 00:27:09 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
+[18-Feb-2025 00:27:09 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/order.php:101
+[18-Feb-2025 00:28:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'kh.maksuduladadadadad.alam.cse@gmail.com' for key 'email' in /home/m1ksu4ul1l1m/public_html/invoice.php:74
+Stack trace:
+#0 /home/m1ksu4ul1l1m/public_html/invoice.php(74): PDOStatement->execute()
+#1 {main}
+  thrown in /home/m1ksu4ul1l1m/public_html/invoice.php on line 74
+[18-Feb-2025 00:29:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/invoice.php on line 100
+[18-Feb-2025 00:29:41 UTC] PHP Stack trace:
+[18-Feb-2025 00:29:41 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[18-Feb-2025 00:29:41 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/invoice.php:100
+[18-Feb-2025 00:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/invoice.php:100) in /home/m1ksu4ul1l1m/public_html/invoice.php on line 103
+[18-Feb-2025 00:32:18 UTC] PHP Stack trace:
+[18-Feb-2025 00:32:18 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/invoice.php:0
+[18-Feb-2025 00:32:18 UTC] PHP   2. header($header = 'Location: thanks-for-ordering.php') /home/m1ksu4ul1l1m/public_html/invoice.php:103
+[18-Feb-2025 00:38:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/m1ksu4ul1l1m/public_html/header.php:1) in /home/m1ksu4ul1l1m/public_html/pack.php on line 13
+[18-Feb-2025 00:38:36 UTC] PHP Stack trace:
+[18-Feb-2025 00:38:36 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/pack.php:0
+[18-Feb-2025 00:38:36 UTC] PHP   2. header($header = 'Cache-Control: max-age=3600') /home/m1ksu4ul1l1m/public_html/pack.php:13
+[18-Feb-2025 05:00:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[18-Feb-2025 05:00:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Feb-2025 18:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Feb-2025 18:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[20-Feb-2025 03:44:06 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[20-Feb-2025 03:44:06 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:09 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 03:44:09 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:09 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:09 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[20-Feb-2025 03:44:09 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:09 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:09 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[20-Feb-2025 03:44:09 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:09 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:13 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[20-Feb-2025 03:44:13 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:13 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:16 UTC] PHP Warning:  Undefined array key "name" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 03:44:16 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:16 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:16 UTC] PHP Warning:  Undefined array key "email" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 4
+[20-Feb-2025 03:44:16 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:16 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 03:44:16 UTC] PHP Warning:  Undefined array key "message" in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 5
+[20-Feb-2025 03:44:16 UTC] PHP Stack trace:
+[20-Feb-2025 03:44:16 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:29:39 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.hfwDt9MaRAUJVcx9GrkN8Z9bDguTS3BNvBE-g7hDJefePQUURj1yjl5ZTgkxb4IhXVgw8PzB7B_CQ34V5g0xMjunHrWEw0ippd3HUnWEHoJkhd57_onWcCgRn0IP2A0bDNEl9XW25pIW25X8s1mF822fphrq1OsiXpEFvbXmwGKmrMe6BJjOQJAx3aPPbbEph3tFk-R4mX_F2-XrXhSLk6MX-qlxG1OtVM77dK-7lo2VqKcFuLSXMhKddsjXjfroGaQ1enzbScHFJvimGuxHYIfZqXPydLODq0Xd_Ye0pzbaD0kKOhkFvKva7FqlnpQKpemTLPApC1-0bCYW24kR6vb8TwXRt3LKyfuj6_EwKnelI8x6Pzhu45ueDcBTrhhDdv4Cf6hEL2483KQvZG6rsf9ICmroi15u-6LUGKOl68aKo53oH0X1CevDW91z-HvzE2OGS1u1Yp6cm49quBHKuMESENkStwEd5laMWmmprOHA1jEdughEnjxRq0ouYbOC1KBopywU_LSumSUPpyPfBxkbXfam8QgonW6A_n-SxhkusIPf7VhshpSn4kl_VIMKu3sCHrSxon9NLqGxlxE1QtKsSkTpn874FNUvyZgwyksoBR8tuudqWElUg-i4n1cY7IPmCdTd9suU5M9oJCh8TfgBxmG-x8GpKi4t_Joq3a1Oc5H9BBaJlphBkVw8ARXZIaZ1fqdkDDIOhfvszQhG3IsYvK-IToHT0FJ28UroH5fgbwErtKlX3JCgrfYyXCmuoBfzeX_RyV_qzFEKc5XpUbIVLHW9kZPtIE9EDvDbRINKruwk43_JwE4InVyKXtL8pDT1u3jlhzINlL-zpmdKaHR6tCHy17Uzk8wjVJojQHI.UGkHNBzU2D2OZ_wDxDEXiA.7a8dab94625864ab2c2fd7590f5961e780ccd8e5b17b01685379624ca1870119): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 11
+[20-Feb-2025 04:29:39 UTC] PHP Stack trace:
+[20-Feb-2025 04:29:39 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:29:39 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.hfwDt9MaRAUJVcx9GrkN8Z9bDguTS3BNvBE-g7hDJefePQUURj1yjl5ZTgkxb4IhXVgw8PzB7B_CQ34V5g0xMjunHrWEw0ippd3HUnWEHoJkhd57_onWcCgRn0IP2A0bDNEl9XW25pIW25X8s1mF822fphrq1OsiXpEFvbXmwGKmrMe6BJjOQJAx3aPPbbEph3tFk-R4mX_F2-XrXhSLk6MX-qlxG1OtVM77dK-7lo2VqKcFuLSXMhKddsjXjfroGaQ1enzbScHFJvimGuxHYIfZqXPydLODq0Xd_Ye0pzbaD0kKOhkFvKva7FqlnpQKpemTLPApC1-0bCYW24kR6vb8TwXRt3LKyfuj6_EwKnelI8x6Pzhu45ueDcBTrhhDdv4Cf6hEL2483KQv'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:11
+[20-Feb-2025 04:29:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:29:39 UTC] PHP Stack trace:
+[20-Feb-2025 04:29:39 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:29:39 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.hfwDt9MaRAUJVcx9GrkN8Z9bDguTS3BNvBE-g7hDJefePQUURj1yjl5ZTgkxb4IhXVgw8PzB7B_CQ34V5g0xMjunHrWEw0ippd3HUnWEHoJkhd57_onWcCgRn0IP2A0bDNEl9XW25pIW25X8s1mF822fphrq1OsiXpEFvbXmwGKmrMe6BJjOQJAx3aPPbbEph3tFk-R4mX_F2-XrXhSLk6MX-qlxG1OtVM77dK-7lo2VqKcFuLSXMhKddsjXjfroGaQ1enzbScHFJvimGuxHYIfZqXPydLODq0Xd_Ye0pzbaD0kKOhkFvKva7FqlnpQKpemTLPApC1-0bCYW24kR6vb8TwXRt3LKyfuj6_EwKnelI8x6Pzhu45ueDcBTrhhDdv4Cf6hEL2483KQvZG6rsf9ICmroi15u-6LUGKOl68aKo53oH0X1CevDW91z-HvzE2OGS1u1Yp6cm49quBHKuMESENkStwEd5laMWmmprOHA1jEdughEnjxRq0ouYbOC1KBopywU_LSumSUPpyPfBxkbXfam8QgonW6A_n-SxhkusIPf7VhshpSn4kl_VIMKu3sCHrSxon9NLqGxlxE1QtKsSkTpn874FNUvyZgwyksoBR8tuudqWElUg-i4n1cY7IPmCdTd9suU5M9oJCh8TfgBxmG-x8GpKi4t_Joq3a1Oc5H9BBaJlphBkVw8ARXZIaZ1fqdkDDIOhfvszQhG3IsYvK-IToHT0FJ28UroH5fgbwErtKlX3JCgrfYyXCmuoBfzeX_RyV_qzFEKc5XpUbIVLHW9kZPtIE9EDvDbRINKruwk43_JwE4InVyKXtL8pDT1u3jlhzINlL-zpmdKaHR6tCHy17Uzk8wjVJojQHI.UGkHNBzU2D2OZ_wDxDEXiA.7a8dab94625864ab2c2fd7590f5961e780ccd8e5b17b01685379624ca1870119): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 11
+[20-Feb-2025 04:29:39 UTC] PHP Stack trace:
+[20-Feb-2025 04:29:39 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:29:39 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.hfwDt9MaRAUJVcx9GrkN8Z9bDguTS3BNvBE-g7hDJefePQUURj1yjl5ZTgkxb4IhXVgw8PzB7B_CQ34V5g0xMjunHrWEw0ippd3HUnWEHoJkhd57_onWcCgRn0IP2A0bDNEl9XW25pIW25X8s1mF822fphrq1OsiXpEFvbXmwGKmrMe6BJjOQJAx3aPPbbEph3tFk-R4mX_F2-XrXhSLk6MX-qlxG1OtVM77dK-7lo2VqKcFuLSXMhKddsjXjfroGaQ1enzbScHFJvimGuxHYIfZqXPydLODq0Xd_Ye0pzbaD0kKOhkFvKva7FqlnpQKpemTLPApC1-0bCYW24kR6vb8TwXRt3LKyfuj6_EwKnelI8x6Pzhu45ueDcBTrhhDdv4Cf6hEL2483KQv'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:11
+[20-Feb-2025 04:29:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:29:39 UTC] PHP Stack trace:
+[20-Feb-2025 04:29:39 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:31:05 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.SP_SC1BRgLi7OFj99-BBlpDS_6Icq_UBje3SGqo-ZXh-JvLRrPwAKY0SyvC0nvN9mqwxCLjdCr66TCTuwb4pm74FrWElaJAGm1cZ7SzTQsu9KdJpR96AqWjGNpkkV7QhcoWEfUl9mYrdSUEUnBMlnjPWnDYi1lKHV5lw-QVGgq3YdS7uZqw09zvSC0Sr34UaJL8oISBIsK-_Fq5UwCYWUTpZ_eePC-i7iZyUg0YowXWXK7W3YtxY5uKHM7NTqsss-EZVYq4zwh32gWu362jZkbw20pqh_K36PtNPGr3J0DngiPITigC3agZ9nNOxEVe977oKrhEEmcEshwrlKLx4mCW04jMSm-L_ZwGYOuGs_Ddf8y6dc8T5tUUzZlY9R986V5fSvMz8skFVocb0pzsvHn9KvnTvV9_791kdxV6ej1hQMKn90YhzSKEHeZvp_cibeAS4c6HU-Xl8v-w6LsrtUe7DEL299pwmr4ZKY5oOQYww_SkhOV0xgMtLLreVhmjSHnck1uSDV68wGOZ5ckCR-7HShRyeRECkEBgPss2Y2LhnAAWnouArBTiWQqIvdhluW_fgRgP7IDprHzKcD0g37Kwjq1x04wZNJ-m_KDxwW66h-RIkyZajS_B1U2Cxv20eWqsqeK9vjwNeC5FhiYaNIv11e-8L-ophLj60eYzYO93lnWdJodmbi3Law_fPJ6G2VhTlZoNISCYFPJs3i9YM4yRt14kzncLnP5P5JgranKQiQ_g4bi0JSd4KGHoteAFtAUg-kkr7GLFxnCk3m1O4kj75NR6RT_OHnEK-bexVnZeS-OWsxg-rSQh5hW75V_daBZ-6TbVZUmqe_FKPgcAPqlFovAoWG7ZrXpw6YH6xCB0.EXVu7lb4ceqkekihvmNcwQ.c61c11d01e800bf7faba68ea24d1ba156888ae98c3ba8d1458f0a75cd106810d): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 11
+[20-Feb-2025 04:31:05 UTC] PHP Stack trace:
+[20-Feb-2025 04:31:05 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:31:05 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.SP_SC1BRgLi7OFj99-BBlpDS_6Icq_UBje3SGqo-ZXh-JvLRrPwAKY0SyvC0nvN9mqwxCLjdCr66TCTuwb4pm74FrWElaJAGm1cZ7SzTQsu9KdJpR96AqWjGNpkkV7QhcoWEfUl9mYrdSUEUnBMlnjPWnDYi1lKHV5lw-QVGgq3YdS7uZqw09zvSC0Sr34UaJL8oISBIsK-_Fq5UwCYWUTpZ_eePC-i7iZyUg0YowXWXK7W3YtxY5uKHM7NTqsss-EZVYq4zwh32gWu362jZkbw20pqh_K36PtNPGr3J0DngiPITigC3agZ9nNOxEVe977oKrhEEmcEshwrlKLx4mCW04jMSm-L_ZwGYOuGs_Ddf8y6dc8T5tUUzZlY9R986V5fSvMz8skFVocb0'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:11
+[20-Feb-2025 04:31:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:31:05 UTC] PHP Stack trace:
+[20-Feb-2025 04:31:05 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:31:17 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.IVe0Yf1E-WKNUjF1o3oFlUUTrrRUayOd16Onh9sxohz6j7nwU16eV8IWnAkRMHp_YGs5AyGQkWKdr4SoZQW59OHUlf5PmNUrvDWQdOj4MXYWVNSMMqU-aVYfpNqAQa-pxA1A21mNTB8XXAux4jdQE9hYgsnVEyMyqMiC_o0g8AEAB1qmeoM-CldKqVyAkob5hDvwkIBaz_nF54-rKm_KgLgj72EJM2pA6uRd279QyHnTAfl1bqYNYSv-A8nUFBxuGO5GtUnXx5Qs1t8sQkVl72t0TuMo4i53GYbNrWo4TVIrzRKX4XiPg8KcjBQqly3jIc7bVx6GKoIF-yy_RyGfPFUoxOVLVAzT2MyL-JAgEOCgYzOYkKzS6xyqd3VdY7jKZ2EvfVXPEXpXuFf1AT4GEtvcfpK_ph7hazvu2nIHmZUbCDBReKy8ttZLZoRO-COCKAhRJFdqyXXCwtHDtz2XjTwSqAi_IzNPqQlGxAUcJQJB2HsCTVQUBTzgTFKdrWwm93uayX6jIIb8xGUW7F0SV-zfFofShHDGGMRNKQCp_g87bgaFY6bs-GII5Ly-CBre2QnMAsdcOEK4qLaUs1Y-O_pPosTG9_c8RtgR6zwwV9Z85oobybpVkp0by4Bya_1MuSuXFzlMpH6TygGRqRAlODSAVV_Bwh3DNHDRr5GPlZ7yrpqSVhCZ52p0O9joM27d4gUmSK8w30mBlAuZKlBLIcdg-_f-5SPDSOVVTF7LrM8ZmiWxwZUkJh_Q2BCQ2YyGmjPEy5r0Ig2EeT3hgo6O7n57ZA16F42BjiC85Sm71KbJNiF-m0s3cDcI8PDRh5gvxTpD-5df9InHuxuvoIfruIcv9oi4UEYIu7zqWUkFmmo.4v7Dho5enwEhZ-LHl1EI3Q.f8c2e14e92b304880d03598a6749045f2af6f7db3bb37031a30ada48fdd81a24): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 11
+[20-Feb-2025 04:31:17 UTC] PHP Stack trace:
+[20-Feb-2025 04:31:17 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:31:17 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.IVe0Yf1E-WKNUjF1o3oFlUUTrrRUayOd16Onh9sxohz6j7nwU16eV8IWnAkRMHp_YGs5AyGQkWKdr4SoZQW59OHUlf5PmNUrvDWQdOj4MXYWVNSMMqU-aVYfpNqAQa-pxA1A21mNTB8XXAux4jdQE9hYgsnVEyMyqMiC_o0g8AEAB1qmeoM-CldKqVyAkob5hDvwkIBaz_nF54-rKm_KgLgj72EJM2pA6uRd279QyHnTAfl1bqYNYSv-A8nUFBxuGO5GtUnXx5Qs1t8sQkVl72t0TuMo4i53GYbNrWo4TVIrzRKX4XiPg8KcjBQqly3jIc7bVx6GKoIF-yy_RyGfPFUoxOVLVAzT2MyL-JAgEOCgYzOYkKzS6xyqd3VdY7jKZ2EvfVXPEXpXuFf1'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:11
+[20-Feb-2025 04:31:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:31:17 UTC] PHP Stack trace:
+[20-Feb-2025 04:31:17 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:32:04 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.n7eUygoU6QhM85TC5tTyamMKTfVuZRBvKwkVk2DyMNqzujHb2WS8eUk8pk1E75Xj5tEZWEFVaFiaeBM9sBDjAHN0mB78hBUHxXrgpGXOQSNXLnUEC64YaEcwdFhqtgTM-AuRUC8tR37u_G9-IXwTMybr9onS-jqscHfcs8A8dVyikFxUCNdH1syd2sO88HEcrmHQAwjvGqkFw12uHA6j5dYM832pPhMbNhSc_y1vdwX9p9RU-uEfikxQn7DAd-wYoEEaicgLUqYA73b8f5xybWWhnUoNA9zurZZoelRgoJ5KaI9-zUeOhxkKR18yjgl4qD2-MeSVLxY_A0r_AHMz_KuKUGUvJVhW4-CAI7GMPRvGAcSLTOyXneCV6X1Irq-e5R5Q7_gaWEhXZOSqiV6lnqH3M0As5JpcnUE5YQbpdbNnoJltvXZLQVCRd8bkQLxWgDy5DKJ4kK2ZLM4D6eZrxOxR5hlvx8efSDdSz-1SeaOUQLwagx-koYzBYSIqvM5K-7FimqUZemz98O-IvNPs4O_rMVCmezP2HJHEzB0xO8g87ZGObyx9RhgjO5Wl5jK7ZDPmfeT-21VfsJHDOjB67zexMx4HlJCNDY9940os1XOG29yPCFmgrzDk8Y2gXuUb-WS_4UIT6PxlgC6t-AIhtpvD1Vnr31LLhctVna6AeHgOo-nQbjC0OyMf4YTOPAdlLQA-Budc1O2u7Xc7VIoEAv_BwCwgzbIxfT_mIFbuMUPZliKfabsEP2PvtJxtiRzqQdwYHigVRdNWsaeQtqxnNLfCnct_FERZAeb0UogM35t1KiY_VYtlshN4Jd0ixJiGTUYNl8mZMD0mrsitgMbIUhrovn-h9nJojNB1IfmeOuM.1XQiDMBUZHGOm33ZEo6dGg.0bcd2e628dad593849cbdab6ce7c26ef6d5c30c69bd55154e50ad5dc88fac784): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:32:04 UTC] PHP Stack trace:
+[20-Feb-2025 04:32:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:32:04 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.n7eUygoU6QhM85TC5tTyamMKTfVuZRBvKwkVk2DyMNqzujHb2WS8eUk8pk1E75Xj5tEZWEFVaFiaeBM9sBDjAHN0mB78hBUHxXrgpGXOQSNXLnUEC64YaEcwdFhqtgTM-AuRUC8tR37u_G9-IXwTMybr9onS-jqscHfcs8A8dVyikFxUCNdH1syd2sO88HEcrmHQAwjvGqkFw12uHA6j5dYM832pPhMbNhSc_y1vdwX9p9RU-uEfikxQn7DAd-wYoEEaicgLUqYA73b8f5xybWWhnUoNA9zurZZoelRgoJ5KaI9-zUeOhxkKR18yjgl4qD2-MeSVLxY_A0r_AHMz_KuKUGUvJVhW4-CAI7GMPRvGAcSLTOyXneCV6X1Irq-e5R5Q7_gaWEhXZOSq'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:17
+[20-Feb-2025 04:32:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 23
+[20-Feb-2025 04:32:04 UTC] PHP Stack trace:
+[20-Feb-2025 04:32:04 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:33:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[20-Feb-2025 04:33:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[20-Feb-2025 04:36:26 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.CRmUjZqrFhV2c_B3Z-WMb6MPHgUiddVXPoQjW8jHbenRNTYfxiQBiXdGyHENhqvIVRxEfyuIudNfGKVK8yWrdLQqaln1m4aFhpqT2S5UmzI8I7kyvgY0ft9o8uSwtyPuH61gzpdu90-qsxWT2u92z3Y9HKLdmqr_VB-f9FFglxq2u16Nblu1nS93ogCUic4bH6W4fHD3PN4i1MpdcNYHM55wxZOBhio31BUTiu7Z9Arl9uS91DjBbnQiYTbFshNzUpvGU5PjZS_cM3hsVVKxpvcTi8sEPnSjpBxzYZbvEjnackBPb8hLERI7_KQQWWd-1_pr3jwyo47o5YxX4kaTxDgejYJ5RUrLivhVD7D0Sv2zFt_2JMJyWzk4NjL03TASOjWwmMoPZCONSxyqF8-WtSPOXpNIJZmhHZu93BSoZ_pEq-4KHCpPIhOTIinmnb7E-eG-p39madzuJ8GCdk3PY1KY9IUudWchNZXFoHdqwmpRGjp1CPqXmCkNJJmUy8JaCr97-tvlK6RbivlR2tj_JZMrJVNZWeer1cCkrCSqzJJ_5mWnU6o2a8stvLPy7HtAqIEDJXuIulXBUyesqy-hpGpD_TrpilEmA4cNk3ArizS1zfiJn2PWlD9qcdPvWwjsbhNPe4F3UQKa2LHFmp4JHRQkDpcm1KJXyWmmuiA3uAVXQGB5Hy6hukFBd9LVqBBTrywMGd8lA3FbQWOeTdoOn0aSRlQI1Cf96yklrOHTKxwhV7mkOU5LdYv3Kd7DyeIhOXKDp_GV2HFdsol5uyUSFbfzZVXbQcJNCtV9BGF5pDfUVib_BWVhHL_dsHBJ3GQYt2RomcqWD5SVxyygCQdKGNjewaYTpX5PX8S9MgNTjxI.szzGsCKQvEifaKR1OF3WLg.1af92231aeb27cc00df0d72c89ae46303aace2001a3faa1ff2a1718a6f45969c): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:36:26 UTC] PHP Stack trace:
+[20-Feb-2025 04:36:26 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:36:26 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.CRmUjZqrFhV2c_B3Z-WMb6MPHgUiddVXPoQjW8jHbenRNTYfxiQBiXdGyHENhqvIVRxEfyuIudNfGKVK8yWrdLQqaln1m4aFhpqT2S5UmzI8I7kyvgY0ft9o8uSwtyPuH61gzpdu90-qsxWT2u92z3Y9HKLdmqr_VB-f9FFglxq2u16Nblu1nS93ogCUic4bH6W4fHD3PN4i1MpdcNYHM55wxZOBhio31BUTiu7Z9Arl9uS91DjBbnQiYTbFshNzUpvGU5PjZS_cM3hsVVKxpvcTi8sEPnSjpBxzYZbvEjnackBPb8hLERI7_KQQWWd-1_pr3jwyo47o5YxX4kaTxDgejYJ5RUrLivhVD7D0Sv2zFt_2JMJyWzk4NjL03TASOjWwmMoPZCONSxyq'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:17
+[20-Feb-2025 04:36:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 23
+[20-Feb-2025 04:36:26 UTC] PHP Stack trace:
+[20-Feb-2025 04:36:26 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:08 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.CRmUjZqrFhV2c_B3Z-WMb6MPHgUiddVXPoQjW8jHbenRNTYfxiQBiXdGyHENhqvIVRxEfyuIudNfGKVK8yWrdLQqaln1m4aFhpqT2S5UmzI8I7kyvgY0ft9o8uSwtyPuH61gzpdu90-qsxWT2u92z3Y9HKLdmqr_VB-f9FFglxq2u16Nblu1nS93ogCUic4bH6W4fHD3PN4i1MpdcNYHM55wxZOBhio31BUTiu7Z9Arl9uS91DjBbnQiYTbFshNzUpvGU5PjZS_cM3hsVVKxpvcTi8sEPnSjpBxzYZbvEjnackBPb8hLERI7_KQQWWd-1_pr3jwyo47o5YxX4kaTxDgejYJ5RUrLivhVD7D0Sv2zFt_2JMJyWzk4NjL03TASOjWwmMoPZCONSxyqF8-WtSPOXpNIJZmhHZu93BSoZ_pEq-4KHCpPIhOTIinmnb7E-eG-p39madzuJ8GCdk3PY1KY9IUudWchNZXFoHdqwmpRGjp1CPqXmCkNJJmUy8JaCr97-tvlK6RbivlR2tj_JZMrJVNZWeer1cCkrCSqzJJ_5mWnU6o2a8stvLPy7HtAqIEDJXuIulXBUyesqy-hpGpD_TrpilEmA4cNk3ArizS1zfiJn2PWlD9qcdPvWwjsbhNPe4F3UQKa2LHFmp4JHRQkDpcm1KJXyWmmuiA3uAVXQGB5Hy6hukFBd9LVqBBTrywMGd8lA3FbQWOeTdoOn0aSRlQI1Cf96yklrOHTKxwhV7mkOU5LdYv3Kd7DyeIhOXKDp_GV2HFdsol5uyUSFbfzZVXbQcJNCtV9BGF5pDfUVib_BWVhHL_dsHBJ3GQYt2RomcqWD5SVxyygCQdKGNjewaYTpX5PX8S9MgNTjxI.szzGsCKQvEifaKR1OF3WLg.1af92231aeb27cc00df0d72c89ae46303aace2001a3faa1ff2a1718a6f45969c): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:38:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:08 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.CRmUjZqrFhV2c_B3Z-WMb6MPHgUiddVXPoQjW8jHbenRNTYfxiQBiXdGyHENhqvIVRxEfyuIudNfGKVK8yWrdLQqaln1m4aFhpqT2S5UmzI8I7kyvgY0ft9o8uSwtyPuH61gzpdu90-qsxWT2u92z3Y9HKLdmqr_VB-f9FFglxq2u16Nblu1nS93ogCUic4bH6W4fHD3PN4i1MpdcNYHM55wxZOBhio31BUTiu7Z9Arl9uS91DjBbnQiYTbFshNzUpvGU5PjZS_cM3hsVVKxpvcTi8sEPnSjpBxzYZbvEjnackBPb8hLERI7_KQQWWd-1_pr3jwyo47o5YxX4kaTxDgejYJ5RUrLivhVD7D0Sv2zFt_2JMJyWzk4NjL03TASOjWwmMoPZCONSxyq'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:17
+[20-Feb-2025 04:38:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 23
+[20-Feb-2025 04:38:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:25 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.GyD2AY1FZmS68uBMyDWNuOCi6gWrfVJmpkCFtZZtRgW4NDKL3EjmtY-hov6JJLFt0CPL65rcXc5sjHywaCikAN7k-OI1v-Rj6NzUURD1U9eQEmtn-GFZmkus7DhJsOsmqeE7O7G6mi_Utfox0lzt40Ai2ugH-8RX4-k_Syua2hVYQ9yHdAmyhHaw6FaPI9eIq9Qe7fIu36YdYrAN6BAKcjQuKDFHAf0I2UkpQ769jNbkmU9TJoLmBOGhKYfJclSFZggsIPc2uDc0t7lkXq2jn7R3UgfBgwlrHj3zzGkCIUeewRNOjYQw8MNAjKzB0b-BgOISgyFAUS7g8LvjyXsHiNIsMt_BKV3XrDUbv2Vo2hGFR0xAyWQhQzrhzruXlbC4oXl_zfjgBRMsoxfWg9Wh6QFEMBfNPxisJjkDTODAj5wQVkwEMFQSzyIOa69wOdfcu-H-m-zVDlWV6K2n_O_Ez0VJUVfuzQR36EuMexHhNiOBjf85U_xmDepkQ-X8iPyHgZEHgy3iMtszf-96c9mwcr7riprdULTi45By-9GatBeNtb8OSgh9M__TqLCTQYmoksjsHpNnOJep9zK70T3oqoUGywt-7y8MRTea_GywJNKExaYpdDVT7yKrLwBhzN8ncfOLBhFRdG8gngMLN80J7DGzhAq2s_DzP7jSxTQCnO-6b1Nwa1ML_wtbp1zqnCdYNzGnTrv-FCsBNdwCJtjDXSZxGv70tyv8RZmizobrGG2V8e4rwyHmvedsZOdOZuvsmbDCFP3b6nZJ8juHw0LixAOCprAQFNaF5ViKMTYG_tok0BWyKMlibX2Y_0mW_hXIV7duTCLNkaOTJlvz-kVZyIPuFl1lLW4GACzDCJ0W9K4.5n8ISlhsg-nueB9cXqOExQ.9b63e3077fb5ff3d439d50ea684c4520ddaec162e9eb0b1148fac0c9f6e4f82b): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:38:25 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:25 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:25 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.GyD2AY1FZmS68uBMyDWNuOCi6gWrfVJmpkCFtZZtRgW4NDKL3EjmtY-hov6JJLFt0CPL65rcXc5sjHywaCikAN7k-OI1v-Rj6NzUURD1U9eQEmtn-GFZmkus7DhJsOsmqeE7O7G6mi_Utfox0lzt40Ai2ugH-8RX4-k_Syua2hVYQ9yHdAmyhHaw6FaPI9eIq9Qe7fIu36YdYrAN6BAKcjQuKDFHAf0I2UkpQ769jNbkmU9TJoLmBOGhKYfJclSFZggsIPc2uDc0t7lkXq2jn7R3UgfBgwlrHj3zzGkCIUeewRNOjYQw8MNAjKzB0b-BgOISgyFAUS7g8LvjyXsHiNIsMt_BKV3XrDUbv2Vo2hGFR0xAyWQhQzrhzruXlbC4oXl_zfjgBRMsoxfW'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:17
+[20-Feb-2025 04:38:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 23
+[20-Feb-2025 04:38:25 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:25 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:33 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSpprHiq2sTiab_fQS_sZTxETI4STMxePJuT7R3O_695eWMFy1iXwBpGW-5tJJbKlvPXdkQIXZh48ztenlgu3C62TbEnaDwtOdKbEeb8mDjSVVcoQ2LSD4udp6Sc0_D5byWf1rhnd0CjnIohX1QLVTbXPRoLzarUghlZELQ5L57EAwjt9Erkcsd2g2QpH8KL6UkN-putq2SwUJ3G-tOFTr2k0KcR8Ld-MCCC-JXZexKjrJhbcT2kmp21KT76c2MxesszNxbRIsQig_KYC5z-mL0ruhPjH8QYpujpgfaVnvqvfzPoiJhCV1JEpSkAHujObzRa4bx5O-PyvlY60jlw0D7PUyfXzq8cc8qR8-ztcOJ1bHMzwdxeGK8QOcS3MI9ouN9Cc6pVYxC0830eTyM4uJ3ycHHXuxlQTLj1Uh-fVy_Og_HyDYJGN9baIXONb9R8uAQH4qn7HtIDUM4ZWtmdlcfoPaiDLc.ejfI0kWOPwC2DdalkvK0oQ.3f24dc062f2fb019e03b833453fa602f2ef40d1e7dbe6d2a5098e626f3957ba7): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 17
+[20-Feb-2025 04:38:33 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:33 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:33 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSp'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:17
+[20-Feb-2025 04:38:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 23
+[20-Feb-2025 04:38:33 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:33 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:53 UTC] PHP Warning:  Undefined variable $turnstile_response in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 2
+[20-Feb-2025 04:38:53 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:53 UTC] Turnstile Response: 
+[20-Feb-2025 04:38:53 UTC] PHP Warning:  Undefined variable $response_keys in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 04:38:53 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:53 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:53 UTC] Cloudflare Response: null
+[20-Feb-2025 04:38:54 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSpprHiq2sTiab_fQS_sZTxETI4STMxePJuT7R3O_695eWMFy1iXwBpGW-5tJJbKlvPXdkQIXZh48ztenlgu3C62TbEnaDwtOdKbEeb8mDjSVVcoQ2LSD4udp6Sc0_D5byWf1rhnd0CjnIohX1QLVTbXPRoLzarUghlZELQ5L57EAwjt9Erkcsd2g2QpH8KL6UkN-putq2SwUJ3G-tOFTr2k0KcR8Ld-MCCC-JXZexKjrJhbcT2kmp21KT76c2MxesszNxbRIsQig_KYC5z-mL0ruhPjH8QYpujpgfaVnvqvfzPoiJhCV1JEpSkAHujObzRa4bx5O-PyvlY60jlw0D7PUyfXzq8cc8qR8-ztcOJ1bHMzwdxeGK8QOcS3MI9ouN9Cc6pVYxC0830eTyM4uJ3ycHHXuxlQTLj1Uh-fVy_Og_HyDYJGN9baIXONb9R8uAQH4qn7HtIDUM4ZWtmdlcfoPaiDLc.ejfI0kWOPwC2DdalkvK0oQ.3f24dc062f2fb019e03b833453fa602f2ef40d1e7dbe6d2a5098e626f3957ba7): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 20
+[20-Feb-2025 04:38:54 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:54 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:54 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSp'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:20
+[20-Feb-2025 04:38:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 26
+[20-Feb-2025 04:38:54 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:54 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:58 UTC] PHP Warning:  Undefined variable $turnstile_response in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 2
+[20-Feb-2025 04:38:58 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:58 UTC] Turnstile Response: 
+[20-Feb-2025 04:38:58 UTC] PHP Warning:  Undefined variable $response_keys in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 04:38:58 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:58 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:58 UTC] Cloudflare Response: null
+[20-Feb-2025 04:38:59 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSpprHiq2sTiab_fQS_sZTxETI4STMxePJuT7R3O_695eWMFy1iXwBpGW-5tJJbKlvPXdkQIXZh48ztenlgu3C62TbEnaDwtOdKbEeb8mDjSVVcoQ2LSD4udp6Sc0_D5byWf1rhnd0CjnIohX1QLVTbXPRoLzarUghlZELQ5L57EAwjt9Erkcsd2g2QpH8KL6UkN-putq2SwUJ3G-tOFTr2k0KcR8Ld-MCCC-JXZexKjrJhbcT2kmp21KT76c2MxesszNxbRIsQig_KYC5z-mL0ruhPjH8QYpujpgfaVnvqvfzPoiJhCV1JEpSkAHujObzRa4bx5O-PyvlY60jlw0D7PUyfXzq8cc8qR8-ztcOJ1bHMzwdxeGK8QOcS3MI9ouN9Cc6pVYxC0830eTyM4uJ3ycHHXuxlQTLj1Uh-fVy_Og_HyDYJGN9baIXONb9R8uAQH4qn7HtIDUM4ZWtmdlcfoPaiDLc.ejfI0kWOPwC2DdalkvK0oQ.3f24dc062f2fb019e03b833453fa602f2ef40d1e7dbe6d2a5098e626f3957ba7): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 20
+[20-Feb-2025 04:38:59 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:59 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:38:59 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.pAcd7q6SYlRZ5vZZ2PraGkN9ePg9ikVUj_DA--MRNhGjBr_fQdxq3srhnVpb0uuHbXl4dbRPhBVqQEbAEMf8xBKTIMJBki1erH-mIWNzmrciyJcNRtAyt14jG82X72NxEiaiNVbCwuAWm3z-fpClbEK-HES80wfzUc4fB0ZOuN-0jhdEv-QO6FqQ4_4M5BDyw6KEGzwctjjk2IbtxYXx3mxjTa55zKIIhwcDU4QO1cfMv3e_yr4ZD9_3HG7WG0HTybcK2jCKZCmFKmdqGI6KfC6hjV4g7iEd3KFrH5BR_hcqR_aMUbBhqyFOQMFK4cXqILxzIrBqq1KzkH7Sob4VFsVUH5O4Dw-6NmBrUWv3wq3elp295CP98mIXAexFIs1GkR-Zm61dUErRMLSp'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:20
+[20-Feb-2025 04:38:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 26
+[20-Feb-2025 04:38:59 UTC] PHP Stack trace:
+[20-Feb-2025 04:38:59 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:39:08 UTC] PHP Warning:  Undefined variable $turnstile_response in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 2
+[20-Feb-2025 04:39:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:39:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:39:08 UTC] Turnstile Response: 
+[20-Feb-2025 04:39:08 UTC] PHP Warning:  Undefined variable $response_keys in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 04:39:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:39:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:39:08 UTC] Cloudflare Response: null
+[20-Feb-2025 04:39:08 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.TswT2bcoiaePiSw5IFusyRtWw6Ssi0bfu8oycQ_HwXFZWIy98rrgRwdAZ35sSPtID367stE7DT7gvui49vaw765tDI66joZZS3w7p_cyONjq_bYGV4zTbPugkW1teBRolpH-TuFL3dFtcGIhtkqC2MTv28l8A_zHIG4AwLQqcgjv3M2xarbeJgwLct0n2F1lYDTQZReA881lfG-odtVe-KU1xxFhYdlZb_J0jgQ2FvNpUxxJyA8aIp_2cLqt1CmMMCYyztlfwqClkKNOvWMj_A6cJvGEnK2J3IT4zdI7xRbUMZefrXMPgDnyoedwTqtem6ENuzto_aoEwq30BGWcZAJvDOhyT7bHE-VrHMUJqvR_3aBSf7MAf3EqvPMt9jF4ZuxnIcVW6JrVvUcC0CnOyGEOqEITU66CTGFrL0k7xxFTCFg8JTE9tSyaWLLQq-9Nd6rtlVC91G810w9l5-8AU-vwmxcx0RbdVeHv53-PUrv7Uq9N6RRjYxnaXx_lker-TAmSVnXFBn-YoaaFPbo5Jxw-ZsXohYerjdVhbJkpMuRWcOhdW1miPLe_hPy-Gd7NwDvRu3jSY4wuz1USsuw7DhFxAVo1l_Z6LuXuHBYQi9KVUZQhOtnJbT-36U4_8CIjHFBNfKMXc7_ogNuSTANnH5reKpPpDDbYXNbwjhpZbWmJR02BXU3DpWaAU9JEk7iPE8QhqTIvdORF1gnlxs8c2PiqiUMRYZcL9zU7GRyA3BM2Ncjfa2HGeiul5EFoLHgV3VA2rXn9qrXhYU5Eo_0hfuji6o87FuFdZMKctBd_ALAlh4_1J1Rv4C5ERxoosnPgUnB0qNz2NmE15i-cKvtROVjlpjhvVHR4Gx0-ACNpcpk.6bRsj4TcB2Z8iF8zZfzlDg.ab42ed2f93c769841010503117b3d273df57ff37e11dda55f4decac3fb0fe583): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 20
+[20-Feb-2025 04:39:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:39:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:39:08 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.TswT2bcoiaePiSw5IFusyRtWw6Ssi0bfu8oycQ_HwXFZWIy98rrgRwdAZ35sSPtID367stE7DT7gvui49vaw765tDI66joZZS3w7p_cyONjq_bYGV4zTbPugkW1teBRolpH-TuFL3dFtcGIhtkqC2MTv28l8A_zHIG4AwLQqcgjv3M2xarbeJgwLct0n2F1lYDTQZReA881lfG-odtVe-KU1xxFhYdlZb_J0jgQ2FvNpUxxJyA8aIp_2cLqt1CmMMCYyztlfwqClkKNOvWMj_A6cJvGEnK2J3IT4zdI7xRbUMZefrXMPgDnyoedwTqtem6ENuzto_aoEwq30BGWcZAJvDOhyT7bHE-VrHMUJqvR_3aBSf7MAf3EqvPMt9jF4ZuxnIcVW6JrVvUcC'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:20
+[20-Feb-2025 04:39:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 26
+[20-Feb-2025 04:39:08 UTC] PHP Stack trace:
+[20-Feb-2025 04:39:08 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:40:43 UTC] PHP Warning:  Undefined variable $turnstile_response in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 2
+[20-Feb-2025 04:40:43 UTC] PHP Stack trace:
+[20-Feb-2025 04:40:43 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:40:43 UTC] Turnstile Response: 
+[20-Feb-2025 04:40:43 UTC] PHP Warning:  Undefined variable $response_keys in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 04:40:43 UTC] PHP Stack trace:
+[20-Feb-2025 04:40:43 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:40:43 UTC] Cloudflare Response: null
+[20-Feb-2025 04:40:43 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.TswT2bcoiaePiSw5IFusyRtWw6Ssi0bfu8oycQ_HwXFZWIy98rrgRwdAZ35sSPtID367stE7DT7gvui49vaw765tDI66joZZS3w7p_cyONjq_bYGV4zTbPugkW1teBRolpH-TuFL3dFtcGIhtkqC2MTv28l8A_zHIG4AwLQqcgjv3M2xarbeJgwLct0n2F1lYDTQZReA881lfG-odtVe-KU1xxFhYdlZb_J0jgQ2FvNpUxxJyA8aIp_2cLqt1CmMMCYyztlfwqClkKNOvWMj_A6cJvGEnK2J3IT4zdI7xRbUMZefrXMPgDnyoedwTqtem6ENuzto_aoEwq30BGWcZAJvDOhyT7bHE-VrHMUJqvR_3aBSf7MAf3EqvPMt9jF4ZuxnIcVW6JrVvUcC0CnOyGEOqEITU66CTGFrL0k7xxFTCFg8JTE9tSyaWLLQq-9Nd6rtlVC91G810w9l5-8AU-vwmxcx0RbdVeHv53-PUrv7Uq9N6RRjYxnaXx_lker-TAmSVnXFBn-YoaaFPbo5Jxw-ZsXohYerjdVhbJkpMuRWcOhdW1miPLe_hPy-Gd7NwDvRu3jSY4wuz1USsuw7DhFxAVo1l_Z6LuXuHBYQi9KVUZQhOtnJbT-36U4_8CIjHFBNfKMXc7_ogNuSTANnH5reKpPpDDbYXNbwjhpZbWmJR02BXU3DpWaAU9JEk7iPE8QhqTIvdORF1gnlxs8c2PiqiUMRYZcL9zU7GRyA3BM2Ncjfa2HGeiul5EFoLHgV3VA2rXn9qrXhYU5Eo_0hfuji6o87FuFdZMKctBd_ALAlh4_1J1Rv4C5ERxoosnPgUnB0qNz2NmE15i-cKvtROVjlpjhvVHR4Gx0-ACNpcpk.6bRsj4TcB2Z8iF8zZfzlDg.ab42ed2f93c769841010503117b3d273df57ff37e11dda55f4decac3fb0fe583): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 20
+[20-Feb-2025 04:40:43 UTC] PHP Stack trace:
+[20-Feb-2025 04:40:43 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:40:43 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.TswT2bcoiaePiSw5IFusyRtWw6Ssi0bfu8oycQ_HwXFZWIy98rrgRwdAZ35sSPtID367stE7DT7gvui49vaw765tDI66joZZS3w7p_cyONjq_bYGV4zTbPugkW1teBRolpH-TuFL3dFtcGIhtkqC2MTv28l8A_zHIG4AwLQqcgjv3M2xarbeJgwLct0n2F1lYDTQZReA881lfG-odtVe-KU1xxFhYdlZb_J0jgQ2FvNpUxxJyA8aIp_2cLqt1CmMMCYyztlfwqClkKNOvWMj_A6cJvGEnK2J3IT4zdI7xRbUMZefrXMPgDnyoedwTqtem6ENuzto_aoEwq30BGWcZAJvDOhyT7bHE-VrHMUJqvR_3aBSf7MAf3EqvPMt9jF4ZuxnIcVW6JrVvUcC'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:20
+[20-Feb-2025 04:40:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 26
+[20-Feb-2025 04:40:43 UTC] PHP Stack trace:
+[20-Feb-2025 04:40:43 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:41:06 UTC] PHP Warning:  Undefined variable $turnstile_response in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 2
+[20-Feb-2025 04:41:06 UTC] PHP Stack trace:
+[20-Feb-2025 04:41:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:41:06 UTC] Turnstile Response: 
+[20-Feb-2025 04:41:06 UTC] PHP Warning:  Undefined variable $response_keys in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 3
+[20-Feb-2025 04:41:06 UTC] PHP Stack trace:
+[20-Feb-2025 04:41:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:41:06 UTC] Cloudflare Response: null
+[20-Feb-2025 04:41:06 UTC] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&amp;response=0.hyEuL_UuSQUviyO5wTvIWXl_setr39YAU5tA28raSaRoe1-NiGqeigiMaCSoKB_dDkSeW6pAklEJAqIwowmpfbvaNKVUOWrpGeznM4fn07OmglVJEi_cozJeK7wfMQVP_UMEfZyFrpN-kyBcpyicXh4C4DRFpBVbk1vFmivxnu-f6SWFaHZVOl9CfxziSqtTBSxHQdIGzEBvbV7bXx2HmFU1pGLx1MhLhn0uCBj6CsSccVtjb9XiCsVdQJfsa-rl8QokzClVFEretSDUYAjSbvQ8MFm9PrqbTnsp0p5IehtZkQ1Hl-1eCtxAOxXxdASYceOg18hUDXuiGF50N--TuTBNA3iIVu4M3HQVZJvEi2drft1kytSsWSFJeNpNj_8YQdcKf3_REpm2h50Oo-Fp-XC0OD8t9eogLt-UnxLP1KMnoVjldVUNWxiA8Ya8m_cc9bPtrjqvSaKyFAqUNjqv__TEuU51zNfvyYhv9kS8cFaihwfNwPQBFeGlvymCVdKI_mrfNIk5W0JbzP3SyVlZH2uehqruwxu9MbbbqLIA2ewYw1I1IQPf3WzUOX4CTnXaJDnpologi8D4rlVqpq8iP9J8lO1xMK08QKsBTTyCzn-hYFQoLgDm_5Q9Iy4MsQEfyjPMGb51KJp52Q-4LC6ToUzCEDVN47pFcMeK7pBxRgngQ5-odzIqqkKtcKVc8MadFVEcwUHgnWDVn3ZSZQ6hqtKpACR8bb-5HMJ8PjXba1qdxzG_KnN7fC9StXeeaGYWs0U0oSLh0AeUljRKXFOr6jie__NsuAjJUtPlx6i_x70_9kzAZGxMUQYGagS8t1rn3z8PZCT31AfxfXsLJbTn3P4uocMbwRS-XICbGaU5TJE.IUw7jg5eZ72A6tRo6DvlZQ.2a3f065d4942ad43c3342227c424525ac8154bfe56c73cc8a9618291764109b4): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 20
+[20-Feb-2025 04:41:06 UTC] PHP Stack trace:
+[20-Feb-2025 04:41:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[20-Feb-2025 04:41:06 UTC] PHP   2. file_get_contents($filename = 'https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA8qvYahwMUgHjJIitOU24R1Ulo&response=0.hyEuL_UuSQUviyO5wTvIWXl_setr39YAU5tA28raSaRoe1-NiGqeigiMaCSoKB_dDkSeW6pAklEJAqIwowmpfbvaNKVUOWrpGeznM4fn07OmglVJEi_cozJeK7wfMQVP_UMEfZyFrpN-kyBcpyicXh4C4DRFpBVbk1vFmivxnu-f6SWFaHZVOl9CfxziSqtTBSxHQdIGzEBvbV7bXx2HmFU1pGLx1MhLhn0uCBj6CsSccVtjb9XiCsVdQJfsa-rl8QokzClVFEretSDUYAjSbvQ8MFm9PrqbTnsp0p5IehtZkQ1Hl-1eCtxAOxXxdASYceOg18hUDXuiGF50N--TuTBNA3iIVu4M3HQVZJvEi2drft1kytSsWSFJeNpNj_8YQdcKf3_REpm2h50O'...) /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:20
+[20-Feb-2025 04:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/m1ksu4ul1l1m/public_html/contact-form-handler.php on line 26
+[20-Feb-2025 04:41:06 UTC] PHP Stack trace:
+[20-Feb-2025 04:41:06 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/contact-form-handler.php:0
+[21-Feb-2025 04:57:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Feb-2025 04:57:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[22-Feb-2025 05:03:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[22-Feb-2025 05:03:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[23-Feb-2025 05:01:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[23-Feb-2025 05:01:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[24-Feb-2025 05:02:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[24-Feb-2025 05:02:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[25-Feb-2025 04:53:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[25-Feb-2025 04:53:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[26-Feb-2025 05:07:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[26-Feb-2025 05:07:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[27-Feb-2025 04:25:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[27-Feb-2025 04:25:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Feb-2025 04:28:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Feb-2025 04:28:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-Mar-2025 04:27:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[01-Mar-2025 04:27:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Mar-2025 05:01:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Mar-2025 05:01:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Mar-2025 03:57:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Mar-2025 03:57:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[04-Mar-2025 03:46:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[04-Mar-2025 03:46:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[05-Mar-2025 03:57:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[05-Mar-2025 03:57:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[06-Mar-2025 03:45:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[06-Mar-2025 03:45:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[07-Mar-2025 03:45:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[07-Mar-2025 03:45:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Mar-2025 03:45:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8.so' (tried: /opt/alt/php81/usr/lib64/php/modules/oci8.so (libclntsh.so.12.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/oci8.so.so (/opt/alt/php81/usr/lib64/php/modules/oci8.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Mar-2025 03:45:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci.so' (tried: /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so (libclntsh.so.21.1: cannot open shared object file: No such file or directory), /opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so (/opt/alt/php81/usr/lib64/php/modules/pdo_oci.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[08-Mar-2025 13:55:41 UTC] PHP Warning:  Undefined array key "package_id" in /home/m1ksu4ul1l1m/public_html/order.php on line 9
+[08-Mar-2025 13:55:41 UTC] PHP Stack trace:
+[08-Mar-2025 13:55:41 UTC] PHP   1. {main}() /home/m1ksu4ul1l1m/public_html/order.php:0
